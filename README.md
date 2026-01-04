@@ -61,5 +61,5 @@ Let’s explore the next frontier of AI together.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bumbum2403&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bumbum2403&show_icons=true&theme=radical&hide_border=true" alt="Shubham's GitHub Stats" />
 </p>
