@@ -7,12 +7,10 @@
 </p>
 
 ```diff
-@@ whoami @@
-+ ai engineer @ rocketfrog ai
-+ production rag, multi-agent workflows, document ai
+@@ hello, ls shubham @@
++ ai engineer @ rocketfrog ai // production rag, multi-agent systems, document ai
 + databricks certified data engineer associate
-+ hackathon winner, upes csi 2025
-+ codes for fun after hours
++ harnessing ai
 - sleep schedule (deprecated)
 ```
 
